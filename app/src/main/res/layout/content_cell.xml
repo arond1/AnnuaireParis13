@@ -9,10 +9,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/tv_nomEnseingant"
-            android:text="Text View"
             android:layout_marginLeft="30dp"
             android:layout_marginBottom="3dp"
-            android:textSize="25dp"
-            android:autoLink="email"/>
+            android:textSize="25dp"/>
 
 </LinearLayout>
