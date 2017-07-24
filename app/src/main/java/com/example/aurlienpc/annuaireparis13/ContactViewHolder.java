@@ -20,4 +20,9 @@ public class ContactViewHolder extends ViewHolder {
     public void remplirCell(String enseignant){
         this.nomEnseingant.setText(enseignant);
     }
+
+    public TextView getTextView(ContactViewHolder c)
+    {
+        return this.nomEnseingant;
+    }
 }

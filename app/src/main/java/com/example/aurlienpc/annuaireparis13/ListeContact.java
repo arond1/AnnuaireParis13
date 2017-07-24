@@ -14,9 +14,9 @@ public class ListeContact {
             "Dubacq",
             "Deselligny",
             "Torti",
-            "Chuck Norris",
             "Gayral",
             "Henrio",
-            "Roy"
+            "Roy",
+            "Chuck Norris"
     };
 }

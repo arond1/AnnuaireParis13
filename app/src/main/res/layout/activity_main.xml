@@ -6,7 +6,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.example.aurlienpc.annuaireparis13.MainActivity"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:background="@color/bleuCiel">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -16,7 +17,8 @@
         <android.support.v7.widget.RecyclerView
             android:id="@+id/rv_contacts"
             android:layout_width="match_parent"
-            android:layout_height="match_parent" />
+            android:layout_height="match_parent"
+            />
     </ScrollView>
 
     <Button
