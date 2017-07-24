@@ -3,4 +3,7 @@
     <string name="button_name">Crédits</string>
     <item name="rv_contacts" type="id">troll</item>
     <item name="tv_nomEnseingant" type="id">trololo</item>
+    <string name="copyright">Application créée pour le projet Android du module correspondant.</string>
+    <string name="reproduction">Toute reproduction est interdite sauf par accord de M.Khafif.</string>
+    <string name="noms">Projet réalisé par Diard Loic et Michel Aurélien.</string>
 </resources>
