@@ -6,4 +6,5 @@
     <string name="copyright">Application créée pour le projet Android du module correspondant.</string>
     <string name="reproduction">Toute reproduction est interdite sauf par accord de M.Khafif.</string>
     <string name="noms">Projet réalisé par Diard Loic et Michel Aurélien.</string>
+    <string name="title_activity_main2">Main2Activity</string>
 </resources>
