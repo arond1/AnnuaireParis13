@@ -17,6 +17,7 @@ public class ListeContact {
             "Chuck Norris",
             "Gayral",
             "Henrio",
-            "Roy"
+            "Roy",
+            "aurelien95.michel@laposte.net"
     };
 }
