@@ -3,19 +3,20 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="horizontal"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content">
+    android:layout_height="60dp"
+    android:layout_margin="1dp"
+    android:gravity="center"
+    android:background="@color/gris"
+    android:clickable="true">
 
         <TextView
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:id="@+id/tv_nomEnseingant"
             android:text="test"
-            android:layout_marginLeft="30dp"
-            android:layout_marginRight="30dp"
-            android:layout_marginBottom="3dp"
             android:textSize="25dp"
-            android:clickable="true"
+            android:textColor="@color/noir"
             android:gravity="center"
-            android:background="@color/colorPrimary"/>
+            android:background="@color/gris"/>
 
 </LinearLayout>

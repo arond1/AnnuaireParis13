@@ -1,8 +1,10 @@
 package com.example.aurlienpc.annuaireparis13;
 
+import android.content.Context;
 import android.support.v7.widget.RecyclerView.ViewHolder;
 import android.view.View;
 import android.widget.TextView;
+
 
 /**
  * Created by AurélienPC on 20/07/2017.
@@ -17,11 +19,11 @@ public class ContactViewHolder extends ViewHolder {
         this.nomEnseingant = (TextView) itemView.findViewById(R.id.tv_nomEnseingant);
     }
 
-    public void remplirCell(String enseignant){
-        this.nomEnseingant.setText(enseignant);
+    public void remplirCell(Enseignant enseignant){
+        this.nomEnseingant.setText(enseignant.getNom());
     }
 
-    public TextView getTextView(ContactViewHolder c)
+    public TextView getTextView()
     {
         return this.nomEnseingant;
     }

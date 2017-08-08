@@ -1,5 +1,6 @@
 package com.example.aurlienpc.annuaireparis13;
 
+
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -7,14 +8,11 @@ import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.widget.Button;
-import android.widget.TextView;
-import android.widget.Toast;
 
-import org.w3c.dom.Text;
 
 import java.util.ArrayList;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity{
 
     private RecyclerView rvListeEnseignants;
 
@@ -26,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         this.rvListeEnseignants = (RecyclerView) this.findViewById(R.id.rv_contacts);
         LinearLayoutManager l = new LinearLayoutManager(this);
         this.rvListeEnseignants.setLayoutManager(l);
-        ArrayList<String> contacts = makeListContact(ListeContact.liste);
+        ArrayList<Enseignant> contacts = makeListContact(ListeContact.liste);
         EnseignantAdapter adapter = new EnseignantAdapter(this, contacts);
         this.rvListeEnseignants.setAdapter(adapter);
     }
@@ -45,8 +43,8 @@ public class MainActivity extends AppCompatActivity {
         );
     }
 
-    private ArrayList<String> makeListContact(String[] liste) {
-        ArrayList<String> contacts = new ArrayList<String>();
+    private ArrayList<Enseignant> makeListContact(Enseignant[] liste) {
+        ArrayList<Enseignant> contacts = new ArrayList<>();
 
             for(int i=0;i<liste.length;i++)
             {
