@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\perso\\AndroidProject\\AnnuaireParis13\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\AurélienPC\\.android\\build-cache\\9b1f3767e0ee015bc291c22243bf850111bca0b8\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\perso\\AndroidProject\\AnnuaireParis13\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\AurélienPC\\.android\\build-cache\\9b1f3767e0ee015bc291c22243bf850111bca0b8\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\perso\\AndroidProject\\AnnuaireParis13\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\AurélienPC\\.android\\build-cache\\9b1f3767e0ee015bc291c22243bf850111bca0b8\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\perso\\AndroidProject\\AnnuaireParis13\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\AurélienPC\\.android\\build-cache\\9b1f3767e0ee015bc291c22243bf850111bca0b8\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

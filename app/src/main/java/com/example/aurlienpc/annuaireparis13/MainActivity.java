@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity{
         ArrayList<Enseignant> contacts = makeListContact(ListeContact.liste);
         EnseignantAdapter adapter = new EnseignantAdapter(this, contacts);
         this.rvListeEnseignants.setAdapter(adapter);
+        rvListeEnseignants.setNestedScrollingEnabled(false);
     }
 
     public void activerBouton()

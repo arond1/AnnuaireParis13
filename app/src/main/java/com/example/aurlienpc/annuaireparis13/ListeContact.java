@@ -19,4 +19,9 @@ public class ListeContact {
             new Enseignant(11,"Roy","Khafif@test.fr"),
             new Enseignant(12,"Chuck Norris","Khafif@test.fr")
     };
+
+    public static Enseignant getEnseignant(int position)
+    {
+        return ListeContact.liste[position];
+    }
 }

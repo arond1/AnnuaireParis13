@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\perso\\AndroidProject\\AnnuaireParis13\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "D:\\perso\\AndroidProject\\AnnuaireParis13\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\perso\\AndroidProject\\AnnuaireParis13\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "D:\\perso\\AndroidProject\\AnnuaireParis13\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\perso\\AndroidProject\\AnnuaireParis13\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_villetaneuse.png",
+        "source": "D:\\perso\\AndroidProject\\AnnuaireParis13\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_villetaneuse.png"
+    }
+]
