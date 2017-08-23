@@ -1,26 +1,26 @@
 [
     {
-        "merged": "D:\\perso\\AndroidProject\\AnnuaireParis13\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
-        "source": "C:\\Users\\AurélienPC\\.android\\build-cache\\9b1f3767e0ee015bc291c22243bf850111bca0b8\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+        "merged": "C:\\Users\\user\\Desktop\\AnnuaireParis13-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a5f9011ea1f5d1de8113d486d81ea8bea6a009ad\\output\\res\\layout-v11\\notification_template_big_media.xml"
     },
     {
-        "merged": "D:\\perso\\AndroidProject\\AnnuaireParis13\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
-        "source": "C:\\Users\\AurélienPC\\.android\\build-cache\\9b1f3767e0ee015bc291c22243bf850111bca0b8\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+        "merged": "C:\\Users\\user\\Desktop\\AnnuaireParis13-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a5f9011ea1f5d1de8113d486d81ea8bea6a009ad\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
     },
     {
-        "merged": "D:\\perso\\AndroidProject\\AnnuaireParis13\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
-        "source": "C:\\Users\\AurélienPC\\.android\\build-cache\\9b1f3767e0ee015bc291c22243bf850111bca0b8\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+        "merged": "C:\\Users\\user\\Desktop\\AnnuaireParis13-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a5f9011ea1f5d1de8113d486d81ea8bea6a009ad\\output\\res\\layout-v11\\notification_media_action.xml"
     },
     {
-        "merged": "D:\\perso\\AndroidProject\\AnnuaireParis13\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
-        "source": "C:\\Users\\AurélienPC\\.android\\build-cache\\9b1f3767e0ee015bc291c22243bf850111bca0b8\\output\\res\\layout-v11\\notification_template_big_media.xml"
+        "merged": "C:\\Users\\user\\Desktop\\AnnuaireParis13-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a5f9011ea1f5d1de8113d486d81ea8bea6a009ad\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "D:\\perso\\AndroidProject\\AnnuaireParis13\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
-        "source": "C:\\Users\\AurélienPC\\.android\\build-cache\\9b1f3767e0ee015bc291c22243bf850111bca0b8\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+        "merged": "C:\\Users\\user\\Desktop\\AnnuaireParis13-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a5f9011ea1f5d1de8113d486d81ea8bea6a009ad\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "D:\\perso\\AndroidProject\\AnnuaireParis13\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
-        "source": "C:\\Users\\AurélienPC\\.android\\build-cache\\9b1f3767e0ee015bc291c22243bf850111bca0b8\\output\\res\\layout-v11\\notification_media_action.xml"
+        "merged": "C:\\Users\\user\\Desktop\\AnnuaireParis13-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a5f9011ea1f5d1de8113d486d81ea8bea6a009ad\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
     }
 ]

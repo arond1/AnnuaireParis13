@@ -2,31 +2,22 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="C:\Users\AurélienPC\.android\build-cache\5f0ca44af3a2bab9016f0f84bc5d1817f281d93b\output\jars\classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\AnnuaireParis13-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
-        <dex dex="D:\perso\AndroidProject\AnnuaireParis13\app\build\intermediates\pre-dexed\debug\classes_a7a85e3a257c44c8dc454728fa7a3008ff973cbc.jar" />
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\user\Desktop\AnnuaireParis13-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2c8f062b3431554ec5961db2c1e33dd3b8da45e6\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\AurélienPC\.android\build-cache\3cb3b1cd1538e4810297497fb16758f31da67e27\output\jars\classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\AnnuaireParis13-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="95519720620b553f63afc789beba9ad582807f7c">
-        <dex dex="D:\perso\AndroidProject\AnnuaireParis13\app\build\intermediates\pre-dexed\debug\classes_7c012842ed3ed66938a586b64a25a2a76a018f98.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\AurélienPC\.android\build-cache\1409b7e0d14cd85a97b3ef3c4906d7dd6298cd0e\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
-        <dex dex="D:\perso\AndroidProject\AnnuaireParis13\app\build\intermediates\pre-dexed\debug\classes_1da5613707faed5f4f73498cba7a596ff176099e.jar" />
+        sha1="2554bc4b2d291db44e6676e6dc39aaf971d7183f">
+        <dex dex="C:\Users\user\Desktop\AnnuaireParis13-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0939130fa64278bc32ce0c44f64dcf80c7bbeb2a\classes.dex" />
     </item>
 
 </items>

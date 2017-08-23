@@ -1,111 +1,111 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml:2:1-27:12
+ADDED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml:2:1-27:12
 	package
-		ADDED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml:3:5-52
-		INJECTED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml
-		INJECTED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml:3:5-52
+		INJECTED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml
-		INJECTED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml
-		INJECTED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml
 	android:installLocation
-		ADDED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml:4:5-35
+		ADDED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml:4:5-35
 application
-ADDED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml:6:5-25:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\AurélienPC\.android\build-cache\edb123c38aada8519a6aa863cd5c7f5328063a83\output\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:design:25.3.1] C:\Users\AurélienPC\.android\build-cache\5f0ca44af3a2bab9016f0f84bc5d1817f281d93b\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\AurélienPC\.android\build-cache\9b1f3767e0ee015bc291c22243bf850111bca0b8\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\AurélienPC\.android\build-cache\ce7197449b070f7b6794e120c4d5e946b9ac25f4\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\AurélienPC\.android\build-cache\5b1c9f3996c3397b5eb8f5dd9c4c231d7c346560\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:25.3.1] C:\Users\AurélienPC\.android\build-cache\1409b7e0d14cd85a97b3ef3c4906d7dd6298cd0e\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\AurélienPC\.android\build-cache\29e3275ba33841555e1a21ecaaf6829807d2dd38\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\AurélienPC\.android\build-cache\404214467b47c5659177684e351d09d0f6fbe5a7\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\AurélienPC\.android\build-cache\42a6f90bcf7a03527565948fc9e9b77c5c902c1d\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\AurélienPC\.android\build-cache\7225cbdd36ee374ca3bd6f9efccbb96313c50b56\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\AurélienPC\.android\build-cache\118fb79332068a56d5e7b01135a45d2be3133e95\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\AurélienPC\.android\build-cache\8eaa535e5f264ae11074508b51ae93152b534da5\output\AndroidManifest.xml:29:5-20
+ADDED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml:6:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\user\.android\build-cache\9937dfbb19e5288815f0f455234e2108d6a86984\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\user\.android\build-cache\00ce4fbe08d07de0253a26ef31f29144f9f6b5b5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\user\.android\build-cache\a5f9011ea1f5d1de8113d486d81ea8bea6a009ad\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\user\.android\build-cache\1b50526764c9b4fc43b950bfde75fbb1ffcb36ca\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\user\.android\build-cache\e4f02194aecce03d69df3a5a24553f8325b3141a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\user\.android\build-cache\3ff1b8708bf7349c364078b8a6db7e8a156061df\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\user\.android\build-cache\5519bc2263ab441a87c5ab23288468cdf7c57e99\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\user\.android\build-cache\afce32ab70fe3c1ce6ca1753cb4e8b17799ff35f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\user\.android\build-cache\e114321b841fbcfa6b27530c9910df9a19dd60e6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\user\.android\build-cache\eec1bce4fc2fd3a9deb79ae641b8b5d9229dce7a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\user\.android\build-cache\89d2f173d4a583a54c0238ab8e4085e1a55f9012\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\user\.android\build-cache\d80b0ff2767004340ea4610b3ceb79c60843b610\output\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml:9:9-41
+		ADDED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml:9:9-41
 	android:supportsRtl
-		ADDED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml:11:9-35
 	android:roundIcon
-		ADDED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml:10:9-54
+		ADDED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml:10:9-54
 	android:allowBackup
-		ADDED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml:7:9-35
+		ADDED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml:7:9-35
 	android:icon
-		ADDED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml:8:9-56
+		ADDED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml:8:9-56
 	android:theme
-		ADDED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml:12:9-40
+		ADDED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml:12:9-40
 activity#com.example.aurlienpc.annuaireparis13.MainActivity
-ADDED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml:13:9-20:20
+ADDED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml:13:9-20:20
 	android:screenOrientation
-		ADDED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml:14:13-49
+		ADDED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml:14:13-49
 	android:name
-		ADDED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml:13:19-47
+		ADDED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml:13:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml:15:13-19:29
+ADDED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml:16:17-69
+ADDED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml:18:17-77
+ADDED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml:18:27-74
+		ADDED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml:18:27-74
 activity#com.example.aurlienpc.annuaireparis13.CreditActivity
-ADDED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml:21:9-22:51
+ADDED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml:21:9-22:51
 	android:screenOrientation
-		ADDED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml:22:13-49
+		ADDED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml:22:13-49
 	android:name
-		ADDED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml:21:19-49
+		ADDED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml:21:19-49
 activity#com.example.aurlienpc.annuaireparis13.PagePersonnelle
-ADDED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml:23:9-24:51
+ADDED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml:23:9-24:51
 	android:screenOrientation
-		ADDED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml:24:13-49
+		ADDED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml:24:13-49
 	android:name
-		ADDED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml:23:19-50
+		ADDED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml:23:19-50
 uses-sdk
-INJECTED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\AurélienPC\.android\build-cache\edb123c38aada8519a6aa863cd5c7f5328063a83\output\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:design:25.3.1] C:\Users\AurélienPC\.android\build-cache\5f0ca44af3a2bab9016f0f84bc5d1817f281d93b\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\AurélienPC\.android\build-cache\9b1f3767e0ee015bc291c22243bf850111bca0b8\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\AurélienPC\.android\build-cache\ce7197449b070f7b6794e120c4d5e946b9ac25f4\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\AurélienPC\.android\build-cache\5b1c9f3996c3397b5eb8f5dd9c4c231d7c346560\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\AurélienPC\.android\build-cache\3cb3b1cd1538e4810297497fb16758f31da67e27\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.3.1] C:\Users\AurélienPC\.android\build-cache\1409b7e0d14cd85a97b3ef3c4906d7dd6298cd0e\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\AurélienPC\.android\build-cache\29e3275ba33841555e1a21ecaaf6829807d2dd38\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\AurélienPC\.android\build-cache\404214467b47c5659177684e351d09d0f6fbe5a7\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\AurélienPC\.android\build-cache\42a6f90bcf7a03527565948fc9e9b77c5c902c1d\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\AurélienPC\.android\build-cache\7225cbdd36ee374ca3bd6f9efccbb96313c50b56\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\AurélienPC\.android\build-cache\118fb79332068a56d5e7b01135a45d2be3133e95\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\AurélienPC\.android\build-cache\8eaa535e5f264ae11074508b51ae93152b534da5\output\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\user\.android\build-cache\9937dfbb19e5288815f0f455234e2108d6a86984\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\user\.android\build-cache\00ce4fbe08d07de0253a26ef31f29144f9f6b5b5\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\user\.android\build-cache\a5f9011ea1f5d1de8113d486d81ea8bea6a009ad\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\user\.android\build-cache\1b50526764c9b4fc43b950bfde75fbb1ffcb36ca\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\user\.android\build-cache\e4f02194aecce03d69df3a5a24553f8325b3141a\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\user\.android\build-cache\87b98a0fc0c404b96f649a2d4f2bb8803e27ca15\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\user\.android\build-cache\3ff1b8708bf7349c364078b8a6db7e8a156061df\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\user\.android\build-cache\5519bc2263ab441a87c5ab23288468cdf7c57e99\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\user\.android\build-cache\afce32ab70fe3c1ce6ca1753cb4e8b17799ff35f\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\user\.android\build-cache\e114321b841fbcfa6b27530c9910df9a19dd60e6\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\user\.android\build-cache\eec1bce4fc2fd3a9deb79ae641b8b5d9229dce7a\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\user\.android\build-cache\89d2f173d4a583a54c0238ab8e4085e1a55f9012\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\user\.android\build-cache\d80b0ff2767004340ea4610b3ceb79c60843b610\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.3.1] C:\Users\AurélienPC\.android\build-cache\5f0ca44af3a2bab9016f0f84bc5d1817f281d93b\output\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.3.1] C:\Users\user\.android\build-cache\00ce4fbe08d07de0253a26ef31f29144f9f6b5b5\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml
-		INJECTED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml
-		INJECTED from D:\perso\AndroidProject\AnnuaireParis13\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\AnnuaireParis13-master\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:25.3.1] C:\Users\AurélienPC\.android\build-cache\5f0ca44af3a2bab9016f0f84bc5d1817f281d93b\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\AurélienPC\.android\build-cache\9b1f3767e0ee015bc291c22243bf850111bca0b8\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\AurélienPC\.android\build-cache\ce7197449b070f7b6794e120c4d5e946b9ac25f4\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\AurélienPC\.android\build-cache\5b1c9f3996c3397b5eb8f5dd9c4c231d7c346560\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\AurélienPC\.android\build-cache\3cb3b1cd1538e4810297497fb16758f31da67e27\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] C:\Users\AurélienPC\.android\build-cache\1409b7e0d14cd85a97b3ef3c4906d7dd6298cd0e\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\AurélienPC\.android\build-cache\29e3275ba33841555e1a21ecaaf6829807d2dd38\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\AurélienPC\.android\build-cache\404214467b47c5659177684e351d09d0f6fbe5a7\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\AurélienPC\.android\build-cache\42a6f90bcf7a03527565948fc9e9b77c5c902c1d\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\AurélienPC\.android\build-cache\7225cbdd36ee374ca3bd6f9efccbb96313c50b56\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\AurélienPC\.android\build-cache\118fb79332068a56d5e7b01135a45d2be3133e95\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\AurélienPC\.android\build-cache\8eaa535e5f264ae11074508b51ae93152b534da5\output\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:design:25.3.1] C:\Users\user\.android\build-cache\00ce4fbe08d07de0253a26ef31f29144f9f6b5b5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\user\.android\build-cache\a5f9011ea1f5d1de8113d486d81ea8bea6a009ad\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\user\.android\build-cache\1b50526764c9b4fc43b950bfde75fbb1ffcb36ca\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\user\.android\build-cache\e4f02194aecce03d69df3a5a24553f8325b3141a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\user\.android\build-cache\87b98a0fc0c404b96f649a2d4f2bb8803e27ca15\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\user\.android\build-cache\3ff1b8708bf7349c364078b8a6db7e8a156061df\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\user\.android\build-cache\5519bc2263ab441a87c5ab23288468cdf7c57e99\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\user\.android\build-cache\afce32ab70fe3c1ce6ca1753cb4e8b17799ff35f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\user\.android\build-cache\e114321b841fbcfa6b27530c9910df9a19dd60e6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\user\.android\build-cache\eec1bce4fc2fd3a9deb79ae641b8b5d9229dce7a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\user\.android\build-cache\89d2f173d4a583a54c0238ab8e4085e1a55f9012\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\user\.android\build-cache\d80b0ff2767004340ea4610b3ceb79c60843b610\output\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:design:25.3.1] C:\Users\AurélienPC\.android\build-cache\5f0ca44af3a2bab9016f0f84bc5d1817f281d93b\output\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:design:25.3.1] C:\Users\user\.android\build-cache\00ce4fbe08d07de0253a26ef31f29144f9f6b5b5\output\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:design:25.3.1] C:\Users\AurélienPC\.android\build-cache\5f0ca44af3a2bab9016f0f84bc5d1817f281d93b\output\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:25.3.1] C:\Users\user\.android\build-cache\00ce4fbe08d07de0253a26ef31f29144f9f6b5b5\output\AndroidManifest.xml:26:9-47
