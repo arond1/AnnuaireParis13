@@ -13,7 +13,6 @@ import android.widget.Toast;
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity{
-    public static ArrayList<Enseignant> contacts = new ArrayList<>();
     private RecyclerView rvListeEnseignants;
     public static int test = 0;
 
