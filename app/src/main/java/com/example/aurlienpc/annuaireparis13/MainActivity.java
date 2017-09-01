@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity{
         }
         Toast.makeText(this, "Thread Finit" + test, Toast.LENGTH_LONG).show();
         
-        EnseignantAdapter adapter = new EnseignantAdapter(this, contacts);
+        EnseignantAdapter adapter = new EnseignantAdapter(this, ListeContact.contacts);
         this.rvListeEnseignants.setAdapter(adapter);
         rvListeEnseignants.setNestedScrollingEnabled(false);
     }
