@@ -1,17 +1,21 @@
 package com.example.aurlienpc.annuaireparis13;
 
-/**
- * Created by user on 22/08/2017.
- */
 import android.content.Context;
 import android.content.res.Resources;
 
 public class Load extends Thread {
     private Resources resources;
+    
+/**
+* Constructeur de la classe Load
+* N'utilisé que celui la
+* @param Ressoruce nécessaire à l'accès aux fichier String.xml lors de l'execution
+*/
     public Load(Resources r)
     {
         this.resources = r;
     }
+    
     public void run()
     {
         String[] splitArray = null;
