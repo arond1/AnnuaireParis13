@@ -26,4 +26,8 @@ public class ListeContact {
     {
         return ListeContact.liste[position];
     }
+    public int taille()
+    {
+        return ListeContact.contacts.size();
+    }
 }
