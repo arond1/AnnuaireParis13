@@ -27,7 +27,6 @@ public class MainActivity extends AppCompatActivity{
         this.rvListeEnseignants = (RecyclerView) this.findViewById(R.id.rv_contacts);
         LinearLayoutManager l = new LinearLayoutManager(this);
         this.rvListeEnseignants.setLayoutManager(l);
-        //ArrayList<Enseignant> contacts = makeListContact(ListeContact.liste);
         
         try {
             T1.join();
