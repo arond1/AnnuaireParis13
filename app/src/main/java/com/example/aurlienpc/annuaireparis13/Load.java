@@ -26,7 +26,7 @@ public class Load extends Thread {
         for(int i=0;i<donnee.length;i++)
         {
             splitArray= donnee[i].split(",");
-            MainActivity.contacts.add(new Enseignant(Integer.parseInt(splitArray[0]), splitArray[1], splitArray[2]));
+            ListeContact.contacts.add(new Enseignant(Integer.parseInt(splitArray[0]), splitArray[1], splitArray[2]));
             splitArray = null;
         }
 
