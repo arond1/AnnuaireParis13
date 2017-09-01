@@ -7,7 +7,7 @@ package com.example.aurlienpc.annuaireparis13;
 public class ListeContact {
     public static ArrayList<Enseignant> contacts = new ArrayList<>();
     
-    public static final Enseignant[] liste = new Enseignant[]{
+    public static Enseignant[] liste = new Enseignant[]{
             new Enseignant(1,"Khafif","Khafif@test.fr"),
             new Enseignant(2, "Hébert","Khafif@test.fr" ),
             new Enseignant(3,"Peker","Khafif@test.fr"),
