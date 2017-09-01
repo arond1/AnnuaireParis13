@@ -28,14 +28,15 @@ public class MainActivity extends AppCompatActivity{
         LinearLayoutManager l = new LinearLayoutManager(this);
         this.rvListeEnseignants.setLayoutManager(l);
         //ArrayList<Enseignant> contacts = makeListContact(ListeContact.liste);
+        
         try {
             T1.join();
-            Toast.makeText(this, "Wesh", Toast.LENGTH_LONG).show();
         }
-    catch (InterruptedException e) {
-        Toast.makeText(this, "coucou", Toast.LENGTH_LONG).show();
-    }
+        catch (InterruptedException e) {
+            Toast.makeText(this, "Erreur : ", Toast.LENGTH_LONG).show();
+        }
         Toast.makeText(this, "Thread Finit" + test, Toast.LENGTH_LONG).show();
+        
         EnseignantAdapter adapter = new EnseignantAdapter(this, contacts);
         this.rvListeEnseignants.setAdapter(adapter);
         rvListeEnseignants.setNestedScrollingEnabled(false);
