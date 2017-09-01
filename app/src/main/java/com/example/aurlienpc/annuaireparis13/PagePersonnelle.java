@@ -25,10 +25,19 @@ public class PagePersonnelle extends AppCompatActivity {
         TextView tv_mail = (TextView) findViewById(R.id.mail);
         tv_nom.setText(nom);
         int i = 0;
+        
+        /**
         while(!(nom.equals(ListeContact.liste[i].getNom())))
         {
             i++;
         }
+        */
+        
+        while(!(nom.equals(ListeContact.contacts.getEnseignant(i).getNom())))
+        {
+            i++;
+        }
+        
         Enseignant cible = ListeContact.getEnseignant(i);
         tv_mail.setText(cible.getMail());
     }
