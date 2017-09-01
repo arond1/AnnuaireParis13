@@ -19,9 +19,9 @@ public class Load extends Thread {
     public void run()
     {
         String[] splitArray = null;
-        //Resources resources=context.getResources();
+
         String[] donnee = resources.getStringArray(R.array.DataProf);
-        //String[] donnee = getResources().getStringArray(R.array.Test);
+
         MainActivity.test = donnee.length;
         for(int i=0;i<donnee.length;i++)
         {
