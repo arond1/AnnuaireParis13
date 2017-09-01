@@ -24,8 +24,10 @@ public class ListeContact {
 
     public static Enseignant getEnseignant(int position)
     {
-        return ListeContact.liste[position];
+        //return ListeContact.liste[position];
+        return ListeContact.contacts.get(position);
     }
+    
     public int taille()
     {
         return ListeContact.contacts.size();
